@@ -3,9 +3,9 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   
   <url>
-    <loc>https://ruaaddaem.vercel.app/</loc>
+    <loc>https://astonishing-mochi-c0ccd3.netlify.app/</loc>
     <image:image>
-      <image:loc>https://ruaaddaem.vercel.app/vite.svg</image:loc>
+      <image:loc>https://astonishing-mochi-c0ccd3.netlify.app/vite.svg</image:loc>
       <image:title>رواد الرقمية - أيقونة الموقع</image:title>
       <image:caption>أيقونة موقع رواد الرقمية لخدمات الإنستقرام والتيكتوك</image:caption>
     </image:image>
