@@ -3,6 +3,7 @@ Allow: /
 
 # Sitemap
 Sitemap: https://ruaaddaem.vercel.app/sitemap.xml
+Sitemap: https://ruaaddaem.vercel.app/sitemap-index.xml
 
 # منع الوصول للملفات الحساسة
 Disallow: /admin/
