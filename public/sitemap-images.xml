@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <url>
+    <loc>https://ruaaddaem.vercel.app/</loc>
+    <image:image>
+      <image:loc>https://ruaaddaem.vercel.app/image.png</image:loc>
+      <image:title>رواد الرقمية - شعار الموقع</image:title>
+      <image:caption>شعار موقع رواد الرقمية لخدمات دعم وتنشيط حسابات الإنستقرام والتيكتوك</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://ruaaddaem.vercel.app/vite.svg</image:loc>
+      <image:title>رواد الرقمية - أيقونة الموقع</image:title>
+      <image:caption>أيقونة موقع رواد الرقمية</image:caption>
+    </image:image>
+  </url>
+  
+</urlset>
