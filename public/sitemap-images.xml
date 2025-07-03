@@ -3,15 +3,15 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   
   <url>
-    <loc>https://astonishing-mochi-c0ccd3.netlify.app/</loc>
+    <loc>https://ruaaddaem.vercel.app/</loc>
     <lastmod>2025-07-03T12:00:00+00:00</lastmod>
     <image:image>
-      <image:loc>https://astonishing-mochi-c0ccd3.netlify.app/vite.svg</image:loc>
+      <image:loc>https://ruaaddaem.vercel.app/vite.svg</image:loc>
       <image:title>رواد الرقمية - أيقونة الموقع</image:title>
       <image:caption>أيقونة موقع رواد الرقمية لخدمات الإنستقرام والتيكتوك</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://astonishing-mochi-c0ccd3.netlify.app/image.png</image:loc>
+      <image:loc>https://ruaaddaem.vercel.app/image.png</image:loc>
       <image:title>رواد الرقمية - صورة الموقع</image:title>
       <image:caption>صورة موقع رواد الرقمية لخدمات الإنستقرام والتيكتوك</image:caption>
     </image:image>

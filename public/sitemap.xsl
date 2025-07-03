@@ -238,12 +238,12 @@
                   </td>
                   <td>
                     <xsl:choose>
-                      <xsl:when test="sitemap:priority > 0.8">
+                      <xsl:when test="sitemap:priority &gt; 0.8">
                         <span class="priority priority-high">
                           <xsl:value-of select="sitemap:priority"/>
                         </span>
                       </xsl:when>
-                      <xsl:when test="sitemap:priority > 0.6">
+                      <xsl:when test="sitemap:priority &gt; 0.6">
                         <span class="priority priority-medium">
                           <xsl:value-of select="sitemap:priority"/>
                         </span>
@@ -263,7 +263,7 @@
           <div class="footer">
             <p>
               تم إنشاء هذه الخريطة تلقائياً لموقع 
-              <a href="https://astonishing-mochi-c0ccd3.netlify.app">رواد الرقمية</a>
+              <a href="https://ruaaddaem.vercel.app">رواد الرقمية</a>
             </p>
             <p>للتواصل: <a href="https://wa.me/962778623769">+962778623769</a></p>
           </div>
