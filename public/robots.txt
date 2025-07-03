@@ -1,11 +1,9 @@
 User-agent: *
 Allow: /
 
-# خريطة الموقع
 Sitemap: https://ruaaddaem.vercel.app/sitemap.xml
 Sitemap: https://ruaaddaem.vercel.app/sitemap-index.xml
 
-# منع الوصول للملفات الحساسة
 Disallow: /admin/
 Disallow: /private/
 Disallow: /*.json$
@@ -19,7 +17,6 @@ Disallow: /package.json
 Disallow: /package-lock.json
 Disallow: /dist/
 
-# السماح لمحركات البحث الرئيسية
 User-agent: Googlebot
 Allow: /
 Crawl-delay: 1
@@ -44,7 +41,6 @@ User-agent: YandexBot
 Allow: /
 Crawl-delay: 1
 
-# منع البوتات الضارة والمكشطات
 User-agent: AhrefsBot
 Disallow: /
 
@@ -93,12 +89,4 @@ Disallow: /
 User-agent: Claude-Web
 Disallow: /
 
-# معدل الزحف العام
 Crawl-delay: 1
-
-# معلومات إضافية
-# Host: https://ruaaddaem.vercel.app
-# Contact: +962778623769
-# Language: Arabic
-# Country: Jordan, Saudi Arabia
-# Services: Instagram & TikTok Marketing
