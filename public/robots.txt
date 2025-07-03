@@ -2,7 +2,6 @@ User-agent: *
 Allow: /
 
 Sitemap: https://ruaaddaem.vercel.app/sitemap.xml
-Sitemap: https://ruaaddaem.vercel.app/sitemap-index.xml
 
 Disallow: /admin/
 Disallow: /private/
